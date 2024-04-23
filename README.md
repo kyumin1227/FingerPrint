@@ -1,4 +1,8 @@
-# Fingerprint
+# [Fingerprint]()
+
+<div align="center" style="display:flex;">
+    <img src="logo_remove_bg.png" width="300" alt="logo"/>
+</div>
 
 <br><br/>
 # リポジトリ
